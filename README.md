@@ -14,15 +14,6 @@ Start at [docs/00-preface.md](docs/00-preface.md), then continue in order:
 - [docs/05-systems-ops.md](docs/05-systems-ops.md)
 - [docs/06-instructor-resources.md](docs/06-instructor-resources.md)
 
-Start at `docs/00-preface.md`, then continue in order:
-
-- `docs/01-linux-git.md`
-- `docs/02-networking.md`
-- `docs/03-cloud-foundations.md`
-- `docs/04-containers-docker.md`
-- `docs/05-systems-ops.md`
-- `docs/06-instructor-resources.md`
-
 ## Build
 
 This repo is Markdown-first. If you want a single-file build, concatenate the chapter files in order:
