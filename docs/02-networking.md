@@ -930,4 +930,5 @@ Consider latency, propagation, and CDN routing.
 -   Encourage mapping request paths on whiteboards
 
 -   Connecting networking to DevOps pipelines improves realism
+[Go Back](01-linux-git.md) | [Go Home](../README.md) | [Go Next](03-cloud-foundations.md)
 

@@ -4,6 +4,16 @@ A markdown-first DevOps foundations coursebook covering Linux/Git, networking, c
 
 ## How to read
 
+Start at [docs/00-preface.md](docs/00-preface.md), then continue in order:
+
+- [docs/00-preface.md](docs/00-preface.md)
+- [docs/01-linux-git.md](docs/01-linux-git.md)
+- [docs/02-networking.md](docs/02-networking.md)
+- [docs/03-cloud-foundations.md](docs/03-cloud-foundations.md)
+- [docs/04-containers-docker.md](docs/04-containers-docker.md)
+- [docs/05-systems-ops.md](docs/05-systems-ops.md)
+- [docs/06-instructor-resources.md](docs/06-instructor-resources.md)
+
 Start at `docs/00-preface.md`, then continue in order:
 
 - `docs/01-linux-git.md`

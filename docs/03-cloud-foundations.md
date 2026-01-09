@@ -852,4 +852,5 @@ Tiny startup pays enterprise-grade managed Postgres they barely query.
 -   Reinforce IAM vocabulary --- prevents major misunderstandings.
 
 -   Have students explain designs verbally; fluency matters in interviews and architecture reviews.
+[Go Back](02-networking.md) | [Go Home](../README.md) | [Go Next](04-containers-docker.md)
 

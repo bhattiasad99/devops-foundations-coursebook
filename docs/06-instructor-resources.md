@@ -951,3 +951,4 @@ Company wants optionality --- retain leverage against cloud pricing + regulatory
 -   Vendor economics + geopolitics
 
 -   Pragmatism vs abstraction overhead
+[Go Back](05-systems-ops.md) | [Go Home](../README.md)

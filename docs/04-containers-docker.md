@@ -616,4 +616,5 @@ Python, Node, Go services coexist without system dependency conflicts due to con
 -   Stress image immutability and tags for real-world rollback workflows.
 
 -   Prepare students for Kubernetes later; containers are the foundation.
+[Go Back](03-cloud-foundations.md) | [Go Home](../README.md) | [Go Next](05-systems-ops.md)
 

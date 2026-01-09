@@ -1043,4 +1043,5 @@ Perfect. I'll begin writing **Module 2 --- Networking Fundamentals** in full, us
 Because this will be extremely long (multiple thousand words), I'll generate it in chunks. When the output stops, just say **continue** and I'll resume exactly at the next subsection with no repetition and no summaries.
 
 Starting now...
+[Go Back](00-preface.md) | [Go Home](../README.md) | [Go Next](02-networking.md)
 

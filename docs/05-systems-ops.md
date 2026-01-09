@@ -742,4 +742,5 @@ Traffic spike triggers autoscaler but RDS cannot scale; app nodes saturate DB; c
 -   Encourage ADR writing as homework to simulate professional artifacts.
 
 Perfect --- here are all requested global artifacts in clean, structured **Markdown**, drawing from the 5 completed modules and extending them into a coherent course framework. No repetition of module content, only higher-level meta structure as requested.
+[Go Back](04-containers-docker.md) | [Go Home](../README.md) | [Go Next](06-instructor-resources.md)
 
